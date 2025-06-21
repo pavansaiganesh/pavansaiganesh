@@ -3,7 +3,7 @@
 - 🌱 I’m interested to work on ML and Web projects
 - 📫 How to reach me: pavansaiganesh777@gmail.com
 
-![Profile Views](https://komarev.com/ghpvc/?username=pavansaiganesh&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=pavansaiganesh&color=blueviolet)   ![Commits](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/pavansaiganesh&query=public_repos&label=Commits&color=blue&logo=github)
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -40,6 +40,5 @@
 <br/> -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavansaiganesh&hide=TeX&layout=compact)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pavansaiganesh)](https://git.io/streak-stats)
 
 - ⚡ Fun fact: Im Batman

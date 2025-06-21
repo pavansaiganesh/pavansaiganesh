@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-- 🌱 I’m interested to work on ML and Web projects
-- 📫 How to reach me: pavansaiganesh777@gmail.com
-
 ![Profile Views](https://komarev.com/ghpvc/?username=pavansaiganesh&color=blueviolet)   ![Commits](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/pavansaiganesh&query=public_repos&label=Commits&color=blue)
 
 <p align="center">
@@ -41,4 +38,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavansaiganesh&hide=TeX&layout=compact)
 
+- 📫 How to reach me: pavansaiganesh777@gmail.com
 - ⚡ Fun fact: Im Batman

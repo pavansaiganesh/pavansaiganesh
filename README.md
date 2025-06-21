@@ -40,5 +40,6 @@
 <br/> -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavansaiganesh&hide=TeX&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pavansaiganesh)](https://git.io/streak-stats)
 
 - ⚡ Fun fact: Im Batman

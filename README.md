@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ![Commits](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/pavansaiganesh&query=public_repos&label=Commits&color=blue)
-![Visits Badge](https://badges.pufler.dev/visits/pavansaiganesh/pavansaiganesh)
+![Visits Badge](https://badges.pufler.dev/visits/pavansaiganesh/pavansaiganesh)(https://badges.pufler.dev/visits/pavansaiganesh/pavansaiganesh)
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->

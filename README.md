@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-![Commits](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/pavansaiganesh&query=public_repos&label=Commits&color=blue)
-![Visits Badge](https://badges.pufler.dev/visits/pavansaiganesh/pavansaiganesh)(https://badges.pufler.dev/visits/pavansaiganesh/pavansaiganesh)
+![Profile Views](https://komarev.com/ghpvc/?username=pavansaiganesh&color=blueviolet)   ![Commits](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/pavansaiganesh&query=public_repos&label=Commits&color=blue)
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
